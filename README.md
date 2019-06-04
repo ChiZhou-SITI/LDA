@@ -1,6 +1,10 @@
 # LDA
 Topic modeling with latent Dirichlet allocation using variational inference and Gibbs sampling
 
+## Table of Contents
+1. [Introduction of Latent Dirichlet Allocation](#introduction)  
+2. [Dependencies](#dependencies)  
+3. [Installation via Docker](#installation-via-docker) 
 
 ## Introduction of Latent Dirichlet Allocation
 Suppose you have the following set of sentences:
