@@ -29,3 +29,25 @@ In more detail, LDA represents documents as mixtures of topics that spit out wor
 	* Using the topic to generate the word itself (according to the topic’s multinomial distribution). For example, if we selected the food topic, we might generate the word “broccoli” with 30% probability, “bananas” with 15% probability, and so on.
 
 Assuming this generative model for a collection of documents, LDA then tries to backtrack from the documents to find a set of topics that are likely to have generated the collection.
+
+## Implementations
+There are two kinds of implementations based on variational inference and gibbs sampling
+
+* [Online variational inference](/doc/Online_Learning_for_Latent_Dirichlet_Allocation.pdf)
+* [Gibbs sampling](http://www.pnas.org/content/101/suppl_1/5228.abstract)
+
+## Examples
+
+Implementation example using online variational inference
+
+* example_sklearn_variational_inference
+	* [example_1](/examples/example_sklearn_variational_inference/LDA_example_1.ipynb)
+	* [example_2](/examples/example_sklearn_variational_inference/LDA_exmaple_2.ipynb)
+
+Implementation using gibbs sampling
+
+* example_sklearn_variational_inference
+	* [example_1](/examples/example_sklearn_variational_inference/LDA_example_1.ipynb)
+	* [example_2](/examples/example_sklearn_variational_inference/LDA_exmaple_2.ipynb)
+
+
