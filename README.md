@@ -46,3 +46,9 @@ Implementation example using online variational inference
 Implementation using gibbs sampling
 
 * [example_3](/examples/example_gibbs_sampling/LDA_example_3.ipynb)
+
+## License 
+MIT license
+
+## Contact
+1410782Chiz@tongji.edu.cn
