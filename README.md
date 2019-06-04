@@ -40,14 +40,9 @@ There are two kinds of implementations based on variational inference and gibbs 
 
 Implementation example using online variational inference
 
-* example_sklearn_variational_inference
 	* [example_1](/examples/example_sklearn_variational_inference/LDA_example_1.ipynb)
 	* [example_2](/examples/example_sklearn_variational_inference/LDA_exmaple_2.ipynb)
 
 Implementation using gibbs sampling
 
-* example_sklearn_variational_inference
-	* [example_1](/examples/example_sklearn_variational_inference/LDA_example_1.ipynb)
-	* [example_2](/examples/example_sklearn_variational_inference/LDA_exmaple_2.ipynb)
-
-
+	* [example_3](/examples/example_gibbs_sampling/LDA_example_3.ipynb)
