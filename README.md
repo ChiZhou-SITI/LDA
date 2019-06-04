@@ -10,6 +10,7 @@ Suppose you have the following set of sentences:
 * Chinchillas and kittens are cute.
 * My sister adopted a kitten yesterday.
 * Look at this cute hamster munching on a piece of broccoli.
+
 What is latent Dirichlet allocation? It’s a way of automatically discovering topics that these sentences contain. For example, given these sentences and asked for 2 topics, LDA might produce something like
 
 * Sentences 1 and 2: 100% Topic A
