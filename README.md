@@ -43,9 +43,13 @@ Implementation example using online variational inference
 * [example_1](/examples/example_sklearn_variational_inference/LDA_example_1.ipynb)
 * [example_2](/examples/example_sklearn_variational_inference/LDA_exmaple_2.ipynb)
 
+More details，please see [here](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html)
+
 Implementation using gibbs sampling
 
 * [example_3](/examples/example_gibbs_sampling/LDA_example_3.ipynb)
+
+More details，please see [here](https://github.com/lda-project/lda)
 
 ## License 
 MIT license
